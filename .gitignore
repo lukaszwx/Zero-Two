@@ -1,0 +1,24 @@
+# Arquivos de ambiente virtual
+venv/
+env/
+ENV/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivo de configuração com token
+.env
+
+# Arquivos de log
+*.log
+
+# Configurações específicas de IDEs
+.vscode/
+.idea/
+*.swp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
