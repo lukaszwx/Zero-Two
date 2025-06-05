@@ -1,3 +1,6 @@
+#primeira bot zero two( ainda em fase de desenvolvimento)
+
+
 import discord
 from discord.ext import commands
 import os
